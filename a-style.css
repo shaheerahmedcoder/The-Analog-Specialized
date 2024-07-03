@@ -6,6 +6,9 @@
     text-decoration: none;
     list-style: none;
 }
+.bdr{
+    border: 10px solid brown;
+}
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
 }
